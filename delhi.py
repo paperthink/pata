@@ -2,6 +2,7 @@ import os
 if not os.path.exists("Agra"):
 
 
+
     os.mkdir("Agra")
 
 trips = ["Taj Mahal", "Red fort", "GB road"]
